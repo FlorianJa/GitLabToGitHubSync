@@ -1,4 +1,6 @@
-## How to clone a GitLab repo to GitHub
+## How to clone/mirror/sync a GitLab repo to GitHub
+
+The following method only syncs from GitLab to GitHub!
 
 1. Create GitLab Repo and push content
 2. Create GitHub Repo
