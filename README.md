@@ -18,6 +18,7 @@
 14. Paste the SSH public key
 15. Allow write access
 16. Click "Add key" 
+17. Synchronization is not executed immediately. Wait a bit.
 
 
 
