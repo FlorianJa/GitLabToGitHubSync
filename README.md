@@ -1,6 +1,6 @@
 ## How to clone a GitLab repo to GitHub
 
-1. Create GitLab Repo and commit content
+1. Create GitLab Repo and push content
 2. Create GitHub Repo
 3. Copy SSH link of GitHub Repo ![](images/GitHub_ssh_link.JPG)
 4. Go to GitLab Repo Settings -> Repository
